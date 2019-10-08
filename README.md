@@ -1,2 +1,1 @@
-# javascript-repo
-- hola mundo
+# javascript-basico
